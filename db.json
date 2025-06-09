@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Wireless Mouse", "category": "Electronics", "price": 799 },
+    { "id": 2, "name": "Notebook", "category": "Stationery", "price": 50 },
+    { "id": 3, "name": "Water Bottle", "category": "Utilities", "price": 199 }
+  ]
+}
+
